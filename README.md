@@ -1,4 +1,4 @@
-# Cryptocurrency-data-fetcher
+# Cryptocurrency-Data-Fetcher
 ## Market Information Retrieval from the CoinGecko API
 
 ## Purpose
