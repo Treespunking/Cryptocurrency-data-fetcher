@@ -1,0 +1,9 @@
+2025-07-11 14:53:11,285 - INFO - Fetching batch 1: 200 coins
+2025-07-11 14:53:14,332 - INFO - Fetching batch 2: 200 coins
+2025-07-11 14:53:17,062 - INFO - Fetching batch 3: 200 coins
+2025-07-11 14:53:20,357 - INFO - Fetching batch 4: 200 coins
+2025-07-11 14:53:23,073 - INFO - Fetching batch 5: 200 coins
+2025-07-11 14:53:25,989 - INFO - Fetching batch 6: 200 coins
+2025-07-11 14:53:28,904 - INFO - Fetching batch 7: 200 coins
+2025-07-11 14:53:31,628 - INFO - Fetching batch 8: 98 coins
+2025-07-11 14:53:34,439 - INFO - Data successfully written to crypto_data.csv
