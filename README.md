@@ -1,3 +1,5 @@
+# Crypto Market Data Fetcher
+
 A reliable Python script to fetch cryptocurrency market data from **CoinGecko API** in batches, with robust error handling and CSV export. Ideal for market research, portfolio analysis, and blockchain analytics.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
