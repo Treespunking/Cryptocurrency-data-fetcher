@@ -30,8 +30,8 @@ A reliable Python script to fetch cryptocurrency market data from **CoinGecko AP
 
 ### 1. Clone the repo
 ```bash
-git clone 
-cd 
+git clone https://github.com/Treespunking/Cryptocurrency-data-fetcher.git
+cd Cryptocurrency-data-fetcher
 ```
 
 ### 2. Set up virtual environment
